@@ -74,7 +74,7 @@
   <a href="mailto:mihirangarathnayake2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF4C60?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://my-portfolio-nvl9h.sevalla.app/homepage-creative-technologist-portfolio-" target="_blank">
+  <a href="https://my-portfolio-nvl9h.sevalla.app/homepage-creative-technologist-portfolio-](https://my-portfolio-nvl9h.sevalla.app/homepage-creative-technologist-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00BFAE?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
   </a>
 </p>
